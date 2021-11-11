@@ -1,0 +1,12 @@
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\bin\Debug\OOP_UKK.exe.config
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\bin\Debug\OOP_UKK.exe
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\bin\Debug\OOP_UKK.pdb
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.csprojAssemblyReference.cache
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.Properties.Resources.resources
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.csproj.GenerateResource.cache
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.csproj.CoreCompileInputs.cache
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.exe
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.pdb
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.Menu.resources
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.Login.resources
+D:\Zaky3\UKK\OOP\OOP_UKK\OOP_UKK\obj\Debug\OOP_UKK.Register.resources
